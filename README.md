@@ -9,7 +9,7 @@ If you're looking for bundle for Symfony 2, please refer [here](https://github.c
 1. Add Composer dependency and install the bundle.
 
 	```bash
-	composer require ckfinder/ckfinder-symfony3-bundle
+	composer require vostlerts/ckfinder-symfony4-bundle
 	```
 
 2. Enable the bundle in `AppKernel.php`.
