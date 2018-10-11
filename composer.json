@@ -1,5 +1,5 @@
 {
-    "name": "ckfinder/ckfinder-symfony3-bundle",
+    "name": "vostlerts/ckfinder-symfony4-bundle",
     "description": "CKFinder 3 bundle for Symfony",
     "type": "symfony-bundle",
     "license": "MIT",
